@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Temporary Backpack.tf Unusual Sorting Fix
 // @namespace    https://github.com/NetroScript
-// @version      0.2
+// @version      0.3
 // @description  Fixes the order of Unusuals at https://backpack.tf/unusual/ + enables sorting again
 // @author       Netroscript
 // @include      /^(http|https)://backpack.tf/unusual/
-// @require      http://code.jquery.com/jquery-2.2.4.min.js
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
+
 
 
 (function() {

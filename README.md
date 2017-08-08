@@ -11,6 +11,11 @@ and then install using this link: [Temporary Backpack.tf Fix.user.js](https://gi
 
 ## Changelog
 
+### 0.3
+
+Fixed:
+* Using the JQuery from backpack.tf so the custom site code works
+
 ### 0.2
 
 Added:
