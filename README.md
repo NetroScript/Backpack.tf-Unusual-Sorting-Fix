@@ -11,7 +11,7 @@ and then install using this link: [Temporary Backpack.tf Fix.user.js](https://gi
 
 ## Changelog
 
-# 0.2
+### 0.2
 
 Added:
 * Also sort on https://backpack.tf/unusuals
